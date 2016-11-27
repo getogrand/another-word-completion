@@ -12,7 +12,7 @@ Here is the answer.
 
 This extension provides word completion cycle when you press *Alt+/*.
 
-![Cycle demo animation](images/cycle.gif)
+![Cycle demo animation](https://raw.githubusercontent.com/getogrand/another-word-completion/master/images/cycle.gif)
 
 ## Commands
 - anotherWordCompletion.cycle
