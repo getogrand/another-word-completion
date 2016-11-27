@@ -26,7 +26,7 @@ There is no requirements!
 - [Alternative autocompletion package for Sublime Text 3](https://github.com/atombender/sublime_text_alternative_autocompletion)
 
 ## Issues, feature improvement sugesstions
-Feel free to submit bugs, issues, great ideas on [Github repository]()
+Feel free to submit bugs, issues, great ideas on [Github repository](https://github.com/getogrand/another-word-completion/issues)
 
 ## Release Notes
 
