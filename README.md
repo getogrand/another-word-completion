@@ -5,6 +5,7 @@ Let Visual Studio Code provides another word completions.
 ## Feature
 
 Are you missing *the true word based completion* that you've seen on TextMate?
+
 Do you have ever thought that the word completion of Visual Studio Code is weak?
 
 Here is the answer.
