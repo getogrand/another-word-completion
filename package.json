@@ -39,5 +39,9 @@
     "@types/node": "^6.0.40",
     "@types/mocha": "^2.2.32"
   },
-  "icon": "images/logo.png"
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getogrand/another-word-completion"
+  }
 }
