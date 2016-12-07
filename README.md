@@ -1,4 +1,4 @@
-# More Word Completion extension for Visual Studio Code
+# Another Word Completion extension for Visual Studio Code
 
 Let Visual Studio Code provides another word completions.
 
